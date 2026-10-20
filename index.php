@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    Sistema de Programação ao objeto
+    Sistema de Programação ao objeto PHP
 </body>
 </html>
